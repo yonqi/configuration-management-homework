@@ -70,7 +70,8 @@
 
 #### Тест
 
-![image](https://github.com/user-attachments/assets/837b62c7-75e9-4fea-abcc-65791b799793)
-![image](https://github.com/user-attachments/assets/74e0282d-4794-4a9f-8b79-c7f82b50734b)
+![image](https://github.com/user-attachments/assets/cfb2848b-dd4c-490a-bebd-87b1b459d2df)
+![image](https://github.com/user-attachments/assets/4cde425e-1c4c-4a32-b614-75dbb6384d89)
+
 
 
